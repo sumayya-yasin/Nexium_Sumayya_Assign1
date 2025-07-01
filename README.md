@@ -16,7 +16,7 @@ This is my first assignment for the **Nexium AI-First Web Development Internship
 - **pnpm**
 
 ## 🌐 Live Website
-👉 [Click here to open the app](https://your-vercel-link.vercel.app)
+👉 [Click here to open the app](https://nexium-sumayya-assign1.vercel.app/)
 
 ## 📂 Folder Name
 All code is in the `/assignment-1/` folder.
