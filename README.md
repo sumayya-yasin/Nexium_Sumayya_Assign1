@@ -1,6 +1,6 @@
 # Assignment 1 – Quote Generator
 
-This is my first assignment for the **Nexium AI-First Web Development Internship (July 2025)**.
+This is my first assignment for the **Nexium AI-First Web Development Internship**.
 
 ## ✨ What this app does
 - You can enter a topic like "success" or "motivation".
@@ -18,8 +18,6 @@ This is my first assignment for the **Nexium AI-First Web Development Internship
 ## 🌐 Live Website
 👉 [Click here to open the app](https://nexium-sumayya-assign1.vercel.app/)
 
-## 📂 Folder Name
-All code is in the `/assignment-1/` folder.
 
 ## 📁 How to Run (for developers)
 1. Install dependencies:
@@ -32,9 +30,7 @@ All code is in the `/assignment-1/` folder.
 You can try:
 - `success`
 - `motivation`
-- `learning`
-- Or any other word – it will show default quotes.
 
 ## 📄 .env.example
-No need foe .env here. Just added the `.env.example` file as required.
+No need for .env here. Just added the `.env.example` file as required.
 
