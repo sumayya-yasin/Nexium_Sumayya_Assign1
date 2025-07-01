@@ -19,7 +19,7 @@ This is my first assignment for the **Nexium AI-First Web Development Internship
 - **pnpm**
 
 ## 🌐 Live Website
-👉 [Click here to open the app](https://nexium-sumayya-assign1.vercel.app/)
+👉 [Click here to open the app](https://nexium-sumayya-assign1-8ct7.vercel.app/)
 
 ## 💡 Example Topics
 You can try:
